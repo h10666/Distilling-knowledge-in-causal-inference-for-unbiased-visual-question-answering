@@ -1,0 +1,4 @@
+General:
+  cp: True
+  output: ./saved_models/exp0 #./saved_models/vqacp2_with_val #./saved_models/exp0/vqav2
+  debug: False
